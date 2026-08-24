@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 Aspiring DevOps Engineer building hands-on DevOps and Cloud skills
+- 💻 DevOps Engineer building hands-on DevOps and Cloud skills
 - 🚀 Currently completing the #90DaysOfDevOps challenge
 - 🐧 Practicing Linux administration and Shell scripting
 - 🔧 Working with Git, GitHub, Docker, Kubernetes and CI/CD
