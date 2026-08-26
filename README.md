@@ -3,7 +3,6 @@
 ## About Me
 
 - 💻 DevOps Engineer building hands-on DevOps and Cloud skills
-- 🚀 Currently completing the #90DaysOfDevOps challenge
 - 🐧 Practicing Linux administration and Shell scripting
 - 🔧 Working with Git, GitHub, Docker, Kubernetes and CI/CD
 - ☁️ Building hands-on experience with AWS
@@ -25,7 +24,6 @@
 
 ## Current Focus
 
-- 🚀 90 Days of DevOps
 - 🐧 Linux Administration
 - 📜 Shell Automation
 - 🌿 Git & GitHub
