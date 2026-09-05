@@ -12,11 +12,11 @@ My current focus is on building practical experience across:
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/333anushka-agrawal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Anushka%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:anushka.ag10@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
